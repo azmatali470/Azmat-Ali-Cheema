@@ -4,10 +4,6 @@ eleventyNavigation:
   key: Contact Me
   order: 3
 ---
-# Contact
-
-I am a person that writes stuff.
-<!DOCTYPE html>
 <html>
 
 <head>
