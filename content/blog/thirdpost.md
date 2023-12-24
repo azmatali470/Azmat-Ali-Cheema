@@ -1,5 +1,5 @@
 ---
-title: This is my third post.
+title: I have done Skills Bootcamp in Web Design & Development.
 description: This is a post on My Blog about win-win survival strategies.
 date: 2018-08-24
 tags:
