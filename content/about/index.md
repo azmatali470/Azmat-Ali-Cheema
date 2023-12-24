@@ -57,14 +57,14 @@ I am a person that writes stuff.
 
 <body>
 	<div class="main">
-		<h1>Welcome To GeeksforGeeks</h1>
+		<h1>Enter the Information</h1>
 		<form>
 			<fieldset>
 				<legend>Personal Details</legend>
 
 				<p>
 					<label>
-						Salutation
+						Title
 						<br />
 						<select name="salutation">
 							<option>--None--</option>
@@ -115,7 +115,7 @@ I am a person that writes stuff.
 
 				<p>
 					<label>
-						Address :
+						Message :
 						<br />
 						<textarea name="address"
 								cols="30" rows="3">
